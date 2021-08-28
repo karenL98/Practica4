@@ -1,0 +1,63 @@
+<!DOCTYPE html> 
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Práctica 5</title>
+    </head>
+    <body background="fondo.jpg">
+        <font face="century gothic" size="3" color="black">
+            <h1>LENGUAJES DE PROGRAMACIÓN</h1>
+             <table>
+                
+                <tr> 
+                    <td> Los 7 lenguajes de programación</td> 
+                    <td>
+                    <ul>               
+                         <li>C</li>
+                         <li>JavaScript</li>
+                         <li>C++</li>
+                         <li> Java</li>
+                         <li>Python</li>
+                         <li> Objetive C</li>
+                         <li>Ruby on rails</li>
+                     </ul>
+                     <td> <img src="imagen1.jpg" width="400" height="200" alt="Alt text"/> </td>
+            
+                </tr>
+
+                <tr> 
+                    <td> Lenguajes de programación web</td> 
+                    <td>
+                    <ol>
+                         <li>HTML</li>
+                         <li>JavaScript</li>
+                         <li>PHP</li>
+                         <li>Asp</li>
+                         <li>JSP</li>
+                         <li>Ruby</li>
+                         <li>CSS</li>
+                   </ol>
+                   <td> <img src="imagen2.jpg" width="400" height="200" alt="Alt text"/> </td>
+                   </tr> 
+
+                   <tr> 
+                    <td> Acrónimos interesantes</td>
+                    <td>
+                        <dl>
+                            <dt>HTML</dt>
+                            <dd>HyperText Markup Languaje</dd>
+                            <dt>W3C</dt>
+                            <dd>World Wide Web Consortium</dd>
+                            <dt>PHP</dt>
+                            <dd>PHP Hipertext pre-procesador</dd>
+                            <dt>CSS</dt>
+                            <dd>Cascading Style Sheets</dd>
+                            </dl>
+                            <td> <img src="imagen2.jpg" width="400" height="200" alt="Alt text"/> </td>
+
+             </table>.
+    </font>
+
+
+    </body>
+</html>
