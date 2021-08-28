@@ -1,0 +1,48 @@
+<!DOCTYPE html> 
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Práctica 5</title>
+    </head>
+    <body background="imagen6.jpg">
+        <font face="century gothic" size="3" color="white">
+            <h1>Big Time Rush</h1>
+             <table>
+                
+                <tr> 
+                    <td> Carlos Pena</td> 
+                    <td>
+                    <td>Carlos García es uno de los personajes principales de la serie Big Time Rush e integrante de la banda homónima. Es el bromista del grupo, y mejor amigo de Kendall, James, y Logan.</td>
+                    <td> <img src="Carlos1.jpg" width="400" height="200" alt="Alt text"/> </td>
+            
+                </tr>
+                <tr> 
+                    <td>Kendall Scmidt </td> 
+                    <td>
+                    <td>Kendall Donald Knight es uno de los personajes principales de la serie Big Time Rush e integrante de la banda homónima. Es el líder del grupo y el más obstinado de los cuatro.</td> 
+                    <td><img src="kendall1.jpg" width="400" height="200" alt="Alt text"/> </td>
+                   </tr> 
+
+                   <tr> 
+                    <td> Logan Henderson</td>
+                    <td>
+                    <td>Hortence "Logan" Mitchell es uno de los personajes principales de la serie Big Time Rush y miembro de la banda homónima. Logan es considerado el genio del grupo, pero tiende a entrar en pánico bajo presión y no le gusta romper las reglas, lo que provoca que en más de una ocasión se niege a seguir a sus amigos por temor a ser descubiertos.</td>
+                        
+                    <td> <img src="logan1.jpg" width="400" height="200" alt="Alt text"/> </td>
+                </tr>
+
+                 <tr> 
+                    <td> James Maslow</td>
+                    <td>
+                    <td>James Diamond es uno de los personajes principales de la serie Big Time Rush e integrante de la banda homónima. James es el chico lindo y galán del grupo, y era el único que inicialmente soñaba con ser una estrella famosa de Hollywood cuando aún vivían en Minnesota. Su plan de vida es convertirse en solista, iniciar una carrera en el cine, casarse con una super-modelo, o comprar un yate y llamarlo James Asombroso.</td>
+                        
+                    <td> <img src="james1.jpg" width="400" height="200" alt="Alt text"/> </td>
+                </tr>
+
+
+             </table>.
+    </font>
+
+
+    </body>
+</html>
